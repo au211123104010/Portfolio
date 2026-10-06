@@ -60,6 +60,13 @@ Completed a 30-day training program focused on Data Analytics and practical data
 ### 🎯 Career Goal
 
 I am looking for opportunities to start my career as a Data Analyst and continuously improve my technical and analytical skills.
+
+### 📧 Contact
+
+If you would like to connect with me regarding opportunities or projects, feel free to reach out.
+
+- Email: chitrav592@gmail.com
+
 ### 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/chitra-v-5a0216366
