@@ -31,6 +31,12 @@ Developed a payroll management application to manage employee details, salary in
 
 **Technologies:** HTML, CSS, JavaScript
 
+#### Autonomous Vehicles and Robotics
+
+A project focused on autonomous vehicle concepts and robotics, exploring technologies related to automation, navigation, and intelligent systems.
+
+**GitHub Repository:**  
+https://github.com/au211123104010/Autonomous-Vehicles-and-Robotics
 ### 🎓 Education
 
 **B.E. Computer Science and Engineering**  
