@@ -20,7 +20,16 @@ I am a Computer Science and Engineering student interested in Data Analytics and
 ### 📊 Projects
 
 #### Payroll Management System
-A payroll management application developed to manage employee details, salary information, payroll processing, and payslip-related data.
+
+Developed a payroll management application to manage employee details, salary information, payroll processing, and payslip-related data.
+
+**Key Features:**
+- Employee details management
+- Salary and payroll management
+- Payslip-related data management
+- User-friendly application interface
+
+**Technologies:** HTML, CSS, JavaScript
 
 ### 🎓 Education
 
