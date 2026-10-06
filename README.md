@@ -52,7 +52,10 @@ Worked on a Payroll Management System to manage employee details, salary informa
 
 ### 📜 Certification
 
+
 **30-Day Data Analysis Master Class**
+
+Completed a 30-day training program focused on Data Analytics and practical data analysis skills using Python, SQL, Excel, and Power BI.
 
 ### 🎯 Career Goal
 
